@@ -1,0 +1,27 @@
+.parentVideo{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100vw;   
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fullscreen video {
+    position: fixed;
+    display: block; 
+    z-index: 9999;
+    width: 100vh !important;
+    height: 100vw !important;
+    transform: rotate(270deg);
+    contain: size;
+}
+
+.fullscreen [aria-label="Close"]{
+    display: none;
+}
+ 
+ 
