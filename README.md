@@ -3,7 +3,7 @@
 
 # Instagram Live Plus
 
-Chrome extension for full screen landscape Instagram live in
+Chrome extension for full screen landscape Instagram live
 
 
 ## Installation
