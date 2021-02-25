@@ -8,14 +8,13 @@ Chrome extension for full screen landscape Instagram live
 
 ## Installation
 
-1- Activate developer mode in chrome: [chrome://extensions/]
+1. Activate developer mode in chrome: [chrome://extensions/]
 > more tools > extensions > activate developer mode (toggle button in top right corner)
-
-2- Download repo as zip.
-3- Unzip the downloaded file
-4- Click the "load unpacked" button.
-4- Choose unziped **folder** to install it.
-5- Done! Go and enjoy Instagram Live!
+2. Download repo as zip
+3. Unzip the downloaded file
+4. Click the "load unpacked" button
+5. Choose unziped **folder** to install it
+6. Done! Go and enjoy Instagram Live!
 
  
 ## Contributing
